@@ -28,3 +28,11 @@ If the cover is too tight or too sloppy, try scaling it up or down in the X dime
 
 The model has sharp corners at the top (actually the bottom during printing) to provide good support during printing, but you will probably want to sand or file these down to get smooth rounded corners. Some sanding may also be needed in other places to get rid of any remaining sharp edges that could snag on clothing.
 
+
+## Updates
+
+### 2021/07/07
+First published.
+
+### 2022/08/27
+Tweaked model and added little nubs that better hold the cover in place.
